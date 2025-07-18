@@ -12,6 +12,10 @@ function preload() {
 	jumpSound = loadSound('assets/sounds/jump.wav');
 }
 
+
+
+
+
 function setup() {
 	new Canvas(innerWidth / 4, innerHeight / 4, 'pixelated x4');
 
